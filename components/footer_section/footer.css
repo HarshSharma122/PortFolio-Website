@@ -1,0 +1,40 @@
+footer
+{
+    display: flex
+    ;
+        align-self: center;
+        justify-content: center;
+        color: #9b9b9b;
+        height: 6vh;
+        text-align: center;
+        margin-top: 67px;
+        border-top: 1px solid #40404061;
+        align-items: center;
+}
+
+
+@media (max-width: 800px) {
+    footer{
+      color: #fff;
+      margin-left: 145px;
+      margin-top: 68px;
+      margin-right: 16%;
+    }
+  }
+  @media (max-width: 670px) {
+    footer {
+      margin-left: 119px;
+      margin-top: 57px;
+    }
+  }
+  @media (max-width: 500px) {
+    
+    footer{
+      margin-left: 84px;
+      margin-top: 75px;
+      margin-right: 1px;
+    }
+   
+  }
+  
+  

@@ -1,0 +1,14 @@
+.top-btn
+{    display: inline-block;
+    position: fixed;
+    bottom: 20px;
+    left: 14px;
+}
+
+.top-btn img
+{width: 5%;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    color: #fff;
+    background-color: #fff;
+}
